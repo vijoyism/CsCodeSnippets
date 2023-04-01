@@ -1,0 +1,8 @@
+D:\Vijay\Technology\Csharp\CsCodeSnippets\PrintPattern1\bin\Debug\PrintPattern1.exe.config
+D:\Vijay\Technology\Csharp\CsCodeSnippets\PrintPattern1\bin\Debug\PrintPattern1.exe
+D:\Vijay\Technology\Csharp\CsCodeSnippets\PrintPattern1\bin\Debug\PrintPattern1.pdb
+D:\Vijay\Technology\Csharp\CsCodeSnippets\PrintPattern1\obj\Debug\PrintPattern1.csproj.AssemblyReference.cache
+D:\Vijay\Technology\Csharp\CsCodeSnippets\PrintPattern1\obj\Debug\PrintPattern1.csproj.SuggestedBindingRedirects.cache
+D:\Vijay\Technology\Csharp\CsCodeSnippets\PrintPattern1\obj\Debug\PrintPattern1.csproj.CoreCompileInputs.cache
+D:\Vijay\Technology\Csharp\CsCodeSnippets\PrintPattern1\obj\Debug\PrintPattern1.exe
+D:\Vijay\Technology\Csharp\CsCodeSnippets\PrintPattern1\obj\Debug\PrintPattern1.pdb
